@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
+http://srv.elitehdbr.vip:8880/live/Z5JaGosSy/5789.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD H265" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ FHD H265
+http://srv.elitehdbr.vip:8880/live/Z5JaGosSy/5789.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+http://srv.elitehdbr.vip:8880/live/Z5JaGosSy/5789.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ALT" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD ALT
+http://srv.elitehdbr.vip:8880/live/Z5JaGosSy/5789.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ALT2" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD ALT2
+http://srv.elitehdbr.vip:8880/live/Z5JaGosSy/5789.ts
